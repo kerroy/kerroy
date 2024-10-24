@@ -1,6 +1,6 @@
 <h1>## Hi there 👋</h1>
 
-As a seasoned Web Developer with 14+ years of experience, I specialize in PHP, MySQL, and React.js, with a strong focus on server-side development and a recent, enthusiastic transition to front-end development. I amde my hobby into my profession and I enjoy developing very much as I don`t feel like I am working at all.
+As a seasoned Web Developer with 14+ years of experience, I specialize in PHP, MySQL, and React.js, with a strong focus on server-side development and a recent, enthusiastic transition to front-end development. I amde my hobby into my profession and I enjoy developing very much as I don`t feel like I am working but playing with the code :).
 
 <h3>I am developing using:</h3>
 <div style="display:gred">
